@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\Charlie\IdeaProjects\untitled\target\scala-2.13\untitled_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\Charlie\IdeaProjects\untitled\target\scala-2.13\classes
+[debug] 	main$.class
+[debug] 	  C:\Users\Charlie\IdeaProjects\untitled\target\scala-2.13\classes\main$.class
+[debug] 	main$Titles$.class
+[debug] 	  C:\Users\Charlie\IdeaProjects\untitled\target\scala-2.13\classes\main$Titles$.class
+[debug] 	main$Titles.class
+[debug] 	  C:\Users\Charlie\IdeaProjects\untitled\target\scala-2.13\classes\main$Titles.class
+[debug] 	main.class
+[debug] 	  C:\Users\Charlie\IdeaProjects\untitled\target\scala-2.13\classes\main.class
+[debug] Done packaging.
